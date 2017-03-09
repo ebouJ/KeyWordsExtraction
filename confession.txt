@@ -1,3 +1,0 @@
-My program is working fine, except if I compress the folder. It stops working and it can't point to a zip folder. If you experience the same problem while marking the assignment just save the Java files in a folder instead, and if you run it works fine.
-
-Thanks for Understanding.
